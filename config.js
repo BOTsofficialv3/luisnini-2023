@@ -5,8 +5,8 @@ import fs from 'fs'
 import { generateWAMessageFromContent } from '@adiwajshing/baileys'
 
 global.owner = [
-  ['573236191090', '👑 fenix - Creador 👑', true],
-  ['573236191090', '👑 fenix - Collaborator 1 👑', true],
+  ['529624007726', '👑 fenix - Creador 👑', true],
+  ['529624007726', '👑 fenix - Collaborator 1 👑', true],
   ['', '👑 fenix - Collaborator 2 👑', true],
   ['', '👑 fenix - Collaborator 3 👑', true],
   ['', '👑 fenix - Collaborator 4 👑', true],
@@ -18,13 +18,13 @@ global.owner = [
   [''],
   [''],
 ] 
-global.suittag = ['573236191090'] 
-global.prems = ['573236191090'] 
+global.suittag = ['529624007726'] 
+global.prems = ['529624007726'] 
 
-global.packname = '𝕱é𝖓𝖎𝖝 𝖇𝖔𝖙 sticker'
-global.author = '★𝕱é𝖓𝖎𝖝 𝖇𝖔𝖙 - ★'
-global.wm = '★𝕱é𝖓𝖎𝖝 𝖇𝖔𝖙 - ★'
-global.igfg = '★𝕱é𝖓𝖎𝖝 𝖇𝖔𝖙 - ★'
+global.packname = '𝐋𝐔𝐈𝐒𝐍𝐈𝐍𝐈𝐁𝐎𝐓𝐙ᙆ  ᷦ×͜× sticker'
+global.author = '★𝐋𝐔𝐈𝐒𝐍𝐈𝐍𝐈𝐁𝐎𝐓𝐙ᙆ  ᷦ×͜× - ★'
+global.wm = '★𝐋𝐔𝐈𝐒𝐍𝐈𝐍𝐈𝐁𝐎𝐓𝐙ᙆ  ᷦ×͜× - ★'
+global.igfg = '★𝐋𝐔𝐈𝐒𝐍𝐈𝐍𝐈𝐁𝐎𝐓𝐙ᙆ  ᷦ×͜× - ★'
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 
 global.keysZens = ['fiktod', 'c2459db922', 'BF39D349845E', '675e34de8a', '37CC845916', '0b917b905e6f', '6fb0eff124']
